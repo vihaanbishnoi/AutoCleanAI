@@ -1,0 +1,18 @@
+2026-02-12 00:03:58.980436 - Moved: C:\Users\Beriwal\Desktop\testtry\as2.png -> quarantine\as2.png
+2026-02-12 00:04:57.911001 - Moved: C:\Users\Beriwal\Desktop\testtry\a.png -> quarantine\a.png
+2026-02-12 02:33:13.177433 - Moved: C:\Users\Beriwal\Desktop\testtry\a - Copy.png -> quarantine\a - Copy.png
+2026-02-12 02:43:42.069516 - Moved: C:\Users\Beriwal\Downloads\ChatGPT Image Nov 9, 2025, 09_07_55 PM.png -> quarantine\ChatGPT Image Nov 9, 2025, 09_07_55 PM.png
+2026-02-12 02:43:42.071595 - Moved: C:\Users\Beriwal\Downloads\pranjal (1).jpg -> quarantine\pranjal (1).jpg
+2026-02-12 02:43:42.083850 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\1.png -> quarantine\1.png
+2026-02-12 02:43:42.084836 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\BisonProperties.png -> quarantine\BisonProperties.png
+2026-02-12 02:43:42.085434 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\FlexProperties.png -> quarantine\FlexProperties.png
+2026-02-12 02:43:42.086002 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\Flex_debuging.png -> quarantine\Flex_debuging.png
+2026-02-12 02:43:42.086706 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\Properties.png -> quarantine\Properties.png
+2026-02-12 02:43:42.087379 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\Verbosity.png -> quarantine\Verbosity.png
+2026-02-12 02:43:42.090048 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\2.png -> quarantine\2.png
+2026-02-12 02:43:42.092036 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\3.png -> quarantine\3.png
+2026-02-12 02:43:42.094010 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\5.png -> quarantine\5.png
+2026-02-12 02:43:42.095927 - Moved: C:\Users\Beriwal\Desktop\Tor Browser\Browser\browser\VisualElements\VisualElements_70.png -> quarantine\VisualElements_70.png
+2026-02-12 02:48:42.146801 - Moved: C:\Users\Beriwal\Desktop\testtry\a - Copy - Copy.png -> quarantine\a - Copy - Copy.png
+2026-02-12 02:48:42.148904 - Moved: C:\Users\Beriwal\Desktop\testtry\Q 4 4 .png -> quarantine\Q 4 4 .png
+2026-02-12 03:04:23.936323 - Moved: C:\Users\Beriwal\Desktop\testtry\a - Copy - Copy - Copy.png -> quarantine\a - Copy - Copy - Copy.png
