@@ -1,0 +1,75 @@
+2026-02-12 00:03:58.980436 - Moved: C:\Users\Beriwal\Desktop\testtry\as2.png -> quarantine\as2.png
+2026-02-12 00:04:57.911001 - Moved: C:\Users\Beriwal\Desktop\testtry\a.png -> quarantine\a.png
+2026-02-12 02:33:13.177433 - Moved: C:\Users\Beriwal\Desktop\testtry\a - Copy.png -> quarantine\a - Copy.png
+2026-02-12 02:43:42.069516 - Moved: C:\Users\Beriwal\Downloads\ChatGPT Image Nov 9, 2025, 09_07_55 PM.png -> quarantine\ChatGPT Image Nov 9, 2025, 09_07_55 PM.png
+2026-02-12 02:43:42.071595 - Moved: C:\Users\Beriwal\Downloads\pranjal (1).jpg -> quarantine\pranjal (1).jpg
+2026-02-12 02:43:42.083850 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\1.png -> quarantine\1.png
+2026-02-12 02:43:42.084836 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\BisonProperties.png -> quarantine\BisonProperties.png
+2026-02-12 02:43:42.085434 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\FlexProperties.png -> quarantine\FlexProperties.png
+2026-02-12 02:43:42.086002 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\Flex_debuging.png -> quarantine\Flex_debuging.png
+2026-02-12 02:43:42.086706 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\Properties.png -> quarantine\Properties.png
+2026-02-12 02:43:42.087379 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\Verbosity.png -> quarantine\Verbosity.png
+2026-02-12 02:43:42.090048 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\2.png -> quarantine\2.png
+2026-02-12 02:43:42.092036 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\3.png -> quarantine\3.png
+2026-02-12 02:43:42.094010 - Moved: C:\Users\Beriwal\Downloads\win_flex_bison-2.5.25\custom_build_rules\docs\5.png -> quarantine\5.png
+2026-02-12 02:43:42.095927 - Moved: C:\Users\Beriwal\Desktop\Tor Browser\Browser\browser\VisualElements\VisualElements_70.png -> quarantine\VisualElements_70.png
+2026-02-12 02:48:42.146801 - Moved: C:\Users\Beriwal\Desktop\testtry\a - Copy - Copy.png -> quarantine\a - Copy - Copy.png
+2026-02-12 02:48:42.148904 - Moved: C:\Users\Beriwal\Desktop\testtry\Q 4 4 .png -> quarantine\Q 4 4 .png
+2026-02-12 03:04:23.936323 - Moved: C:\Users\Beriwal\Desktop\testtry\a - Copy - Copy - Copy.png -> quarantine\a - Copy - Copy - Copy.png
+2026-02-12 12:24:46.352912 - Moved: C:\Users\Beriwal\Downloads\23BCE0011 CN (1).docx -> quarantine\23BCE0011 CN (1).docx
+2026-02-12 12:24:46.353781 - Moved: C:\Users\Beriwal\Downloads\23BCE0011 CN.docx -> quarantine\23BCE0011 CN.docx
+2026-02-12 12:24:56.313466 - Moved: C:\Users\Beriwal\Downloads\23BCE0011 IP (1).pdf -> quarantine\23BCE0011 IP (1).pdf
+2026-02-12 12:24:56.314063 - Moved: C:\Users\Beriwal\Downloads\23BCE0011 IP.docx -> quarantine\23BCE0011 IP.docx
+2026-02-12 12:24:56.314718 - Moved: C:\Users\Beriwal\Downloads\23BCE0011 IP.pdf -> quarantine\23BCE0011 IP.pdf
+2026-02-12 12:24:56.315243 - Moved: C:\Users\Beriwal\Downloads\ilovepdf_merged (4)  (1).docx -> quarantine\ilovepdf_merged (4)  (1).docx
+2026-02-12 12:24:56.315720 - Moved: C:\Users\Beriwal\Downloads\ilovepdf_merged (4) .docx -> quarantine\ilovepdf_merged (4) .docx
+2026-02-12 12:24:56.316150 - Moved: C:\Users\Beriwal\Downloads\ilovepdf_merged (4) .pdf -> quarantine\ilovepdf_merged (4) .pdf
+2026-02-12 12:24:56.316646 - Moved: C:\Users\Beriwal\Downloads\ilovepdf_merged (6).docx -> quarantine\ilovepdf_merged (6).docx
+2026-02-12 12:24:56.317143 - Moved: C:\Users\Beriwal\Downloads\ilovepdf_merged (6).pdf -> quarantine\ilovepdf_merged (6).pdf
+2026-02-12 12:24:59.301402 - Moved: C:\Users\Beriwal\Downloads\23BCE0011 MULTI (1).pdf -> quarantine\23BCE0011 MULTI (1).pdf
+2026-02-12 12:24:59.316645 - Moved: C:\Users\Beriwal\Downloads\23BCE0011 MULTI.docx -> quarantine\23BCE0011 MULTI.docx
+2026-02-12 12:24:59.317457 - Moved: C:\Users\Beriwal\Downloads\23BCE0011 MULTI.pdf -> quarantine\23BCE0011 MULTI.pdf
+2026-02-12 12:24:59.318428 - Moved: C:\Users\Beriwal\Downloads\cn lab tcp client server.docx -> quarantine\cn lab tcp client server.docx
+2026-02-12 12:24:59.318954 - Moved: C:\Users\Beriwal\Downloads\cn lab tcp client server.pdf -> quarantine\cn lab tcp client server.pdf
+2026-02-12 12:24:59.320033 - Moved: C:\Users\Beriwal\Downloads\ilovepdf_merged.docx -> quarantine\ilovepdf_merged.docx
+2026-02-12 12:24:59.320705 - Moved: C:\Users\Beriwal\Downloads\vedant 23bce0011 cn ass2.docx -> quarantine\vedant 23bce0011 cn ass2.docx
+2026-02-12 12:25:04.754725 - Moved: C:\Users\Beriwal\Downloads\23bce0011 ring.pdf -> quarantine\23bce0011 ring.pdf
+2026-02-12 12:25:04.755553 - Moved: C:\Users\Beriwal\Downloads\23BCE0011_VL2025260103300_AST01.pdf -> quarantine\23BCE0011_VL2025260103300_AST01.pdf
+2026-02-12 12:25:04.756734 - Moved: C:\Users\Beriwal\Downloads\23BCE0011_VL2025260103300_AST05.pdf -> quarantine\23BCE0011_VL2025260103300_AST05.pdf
+2026-02-12 13:44:38.103689 - Moved: C:\Users\Beriwal\Downloads\Performance Comparison of AODV and DSR Routing Protocols in MANET using NS2.docx -> quarantine\Performance Comparison of AODV and DSR Routing Protocols in MANET using NS2.docx
+2026-02-12 13:45:28.337103 - Moved: C:\Users\Beriwal\Downloads\23BCE0011_VL2025260104629_AST01.pdf -> quarantine\23BCE0011_VL2025260104629_AST01.pdf
+2026-02-12 13:46:00.105056 - Moved: C:\Users\Beriwal\Desktop\testtry\1.png -> quarantine\1.png
+2026-02-12 13:48:49.089250 - Moved: C:\Users\Beriwal\Downloads\23BCE0011_VL2024250507171_FAT (1).pdf -> quarantine\23BCE0011_VL2024250507171_FAT (1).pdf
+2026-02-12 13:48:49.091020 - Moved: C:\Users\Beriwal\Downloads\23BCE0011_VL2024250507171_FAT.pdf -> quarantine\23BCE0011_VL2024250507171_FAT.pdf
+2026-02-12 13:48:49.107465 - Moved: C:\Users\Beriwal\Downloads\yrc report .pdf -> quarantine\yrc report .pdf
+2026-02-12 13:48:51.211784 - Moved: C:\Users\Beriwal\Downloads\23BCE0011_VL2025260101496_CBDP.docx -> quarantine\23BCE0011_VL2025260101496_CBDP.docx
+2026-02-12 13:48:51.212475 - Moved: C:\Users\Beriwal\Downloads\Performance Comparison of AODV and DSR Routing Protocols in MANET using NS2_compressed (1).pdf -> quarantine\Performance Comparison of AODV and DSR Routing Protocols in MANET using NS2_compressed (1).pdf
+2026-02-12 13:48:51.213417 - Moved: C:\Users\Beriwal\Downloads\Performance Comparison of AODV and DSR Routing Protocols in MANET using NS2_compressed.pdf -> quarantine\Performance Comparison of AODV and DSR Routing Protocols in MANET using NS2_compressed.pdf
+2026-02-12 13:48:53.680147 - Moved: C:\Users\Beriwal\Downloads\23BCE0011_VL2025260103300_AST04.docx -> quarantine\23BCE0011_VL2025260103300_AST04.docx
+2026-02-12 13:48:53.696320 - Moved: C:\Users\Beriwal\Downloads\23BCE0089 distance link.docx -> quarantine\23BCE0089 distance link.docx
+2026-02-12 13:48:58.465438 - Moved: C:\Users\Beriwal\Downloads\23BCE0011_VL2025260103387_AST06.docx -> quarantine\23BCE0011_VL2025260103387_AST06.docx
+2026-02-12 13:48:58.467245 - Moved: C:\Users\Beriwal\Downloads\Operating System Lab 4 23BCE0089.docx -> quarantine\Operating System Lab 4 23BCE0089.docx
+2026-02-12 13:49:00.062274 - Moved: C:\Users\Beriwal\Downloads\23BCE0011_VL2025260104629_AST04.docx -> quarantine\23BCE0011_VL2025260104629_AST04.docx
+2026-02-12 13:49:00.063052 - Moved: C:\Users\Beriwal\Downloads\ilovepdf_merged (5).docx -> quarantine\ilovepdf_merged (5).docx
+2026-02-12 13:49:19.253964 - Moved: C:\Users\Beriwal\Downloads\yrc report  (1).docx -> quarantine\yrc report  (1).docx
+2026-02-12 13:49:19.254892 - Moved: C:\Users\Beriwal\Downloads\yrc report  (2).docx -> quarantine\yrc report  (2).docx
+2026-02-12 13:49:19.255742 - Moved: C:\Users\Beriwal\Downloads\yrc report .docx -> quarantine\yrc report .docx
+2026-02-12 13:49:20.774128 - Moved: C:\Users\Beriwal\Downloads\IP Addressing (2).pdf -> quarantine\IP Addressing (2).pdf
+2026-02-12 13:49:20.774880 - Moved: C:\Users\Beriwal\Downloads\IP Addressing.pdf -> quarantine\IP Addressing.pdf
+2026-02-12 13:49:22.885836 - Moved: C:\Users\Beriwal\Downloads\Module 4 - Intermediate Code Generation complete.pdf -> quarantine\Module 4 - Intermediate Code Generation complete.pdf
+2026-02-12 13:49:40.005904 - Moved: C:\Users\Beriwal\Downloads\Practice_Javascript_QP.pdf -> quarantine\Practice_Javascript_QP.pdf
+2026-02-12 13:50:38.868042 - Moved: C:\Users\Beriwal\Downloads\VL2025260103387_AST01.pdf -> quarantine\VL2025260103387_AST01.pdf
+2026-02-12 13:50:40.502854 - Moved: C:\Users\Beriwal\Downloads\WEB ASSIGNMENT 2.docx -> quarantine\WEB ASSIGNMENT 2.docx
+2026-02-12 13:50:40.503941 - Moved: C:\Users\Beriwal\Downloads\WEB ASSIGNMENT 2.pdf -> quarantine\WEB ASSIGNMENT 2.pdf
+2026-02-12 13:50:41.648801 - Moved: C:\Users\Beriwal\Downloads\WINSEM2024-25_BCSE204L_TH_VL2024250501489_2025-02-28_Reference-Material-I.pdf -> quarantine\WINSEM2024-25_BCSE204L_TH_VL2024250501489_2025-02-28_Reference-Material-I.pdf
+2026-02-12 13:50:41.664220 - Moved: C:\Users\Beriwal\Downloads\WINSEM2024-25_BCSE204L_TH_VL2024250501489_2025-03-03_Reference-Material-II.pdf -> quarantine\WINSEM2024-25_BCSE204L_TH_VL2024250501489_2025-03-03_Reference-Material-II.pdf
+2026-02-12 13:50:43.150187 - Moved: C:\Users\Beriwal\Downloads\WINSEM2024-25_BCSE205L_TH_VL2024250501386_2025-04-09_Reference-Material-III.pdf -> quarantine\WINSEM2024-25_BCSE205L_TH_VL2024250501386_2025-04-09_Reference-Material-III.pdf
+2026-02-12 13:50:44.232911 - Moved: C:\Users\Beriwal\Downloads\WINSEM2024-25_BECE204L_TH_VL2024250504057_2025-01-20_Reference-Material-I (2).pdf -> quarantine\WINSEM2024-25_BECE204L_TH_VL2024250504057_2025-01-20_Reference-Material-I (2).pdf
+2026-02-12 13:50:44.233721 - Moved: C:\Users\Beriwal\Downloads\WINSEM2024-25_BECE204L_TH_VL2024250504057_2025-01-20_Reference-Material-I.pdf -> quarantine\WINSEM2024-25_BECE204L_TH_VL2024250504057_2025-01-20_Reference-Material-I.pdf
+2026-02-12 13:50:45.225770 - Moved: C:\Users\Beriwal\Downloads\WINSEM2024-25_BECE204L_TH_VL2024250504057_2025-02-18_Reference-Material-I.pdf -> quarantine\WINSEM2024-25_BECE204L_TH_VL2024250504057_2025-02-18_Reference-Material-I.pdf
+2026-02-12 13:50:46.118437 - Moved: C:\Users\Beriwal\Downloads\WINSEM2024-25_BECE204L_TH_VL2024250504057_2025-04-03_Reference-Material-I.pdf -> quarantine\WINSEM2024-25_BECE204L_TH_VL2024250504057_2025-04-03_Reference-Material-I.pdf
+2026-02-12 13:50:47.170079 - Moved: C:\Users\Beriwal\Downloads\WINSEM2024-25_BMAT202P_LO_VL2024250502479_2025-01-08_Reference-Material-I.pdf -> quarantine\WINSEM2024-25_BMAT202P_LO_VL2024250502479_2025-01-08_Reference-Material-I.pdf
+2026-02-12 13:50:48.539241 - Moved: C:\Users\Beriwal\Downloads\WINSEM2024-25_BSTS102P_SS_VL2024250500208_2025-01-09_Reference-Material-II.pdf -> quarantine\WINSEM2024-25_BSTS102P_SS_VL2024250500208_2025-01-09_Reference-Material-II.pdf
+2026-02-12 13:50:48.540061 - Moved: C:\Users\Beriwal\Downloads\VIT Downloads\BSTS202P-Qualitative Skills Practice II\D1+TD1-ETHNUS - ETHNUS (APT) - SSL\36-Writing skills -1-24-10-2024.pdf -> quarantine\36-Writing skills -1-24-10-2024.pdf
+2026-02-12 13:50:49.552655 - Moved: C:\Users\Beriwal\Downloads\WINSEM2024-25_BSTS102P_SS_VL2024250500208_2025-01-10_Reference-Material-II.pdf -> quarantine\WINSEM2024-25_BSTS102P_SS_VL2024250500208_2025-01-10_Reference-Material-II.pdf
+2026-02-12 13:50:50.462043 - Moved: C:\Users\Beriwal\Downloads\VIT Downloads\BSTS202P-Qualitative Skills Practice II\D1+TD1-ETHNUS - ETHNUS (APT) - SSL\39-Writing skills -2-25-10-2024.pdf -> quarantine\39-Writing skills -2-25-10-2024.pdf
